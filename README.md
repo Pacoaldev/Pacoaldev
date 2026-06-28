@@ -1,4 +1,5 @@
 <p align="center">
+  <!--
   <video
     src="https://github.com/user-attachments/assets/f80a8aef-3a21-49f1-884b-bbda55325ff7"
     autoplay
@@ -8,7 +9,14 @@
     width="950"
     style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);">
   </video>
+  -->
+  <img
+    src="gif_github.gif"
+    width="950"
+    style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);"
+    alt="Banner GIF" />
 </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;Java+%26+Spring+Boot;Building+distributed+systems;Real-time+data+platforms;AI+powered+applications" alt="Typing SVG" />
