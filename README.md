@@ -11,7 +11,7 @@
   </video>
   -->
   <img
-    src="gif_github.gif"
+    src="video_github.gif"
     width="950"
     style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);"
     alt="Banner GIF" />
