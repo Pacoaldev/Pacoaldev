@@ -130,7 +130,9 @@ I am a **Backend Developer & Systems Architect** specializing in distributed sys
 ## 🏆 GitHub Stats
 
 <div align="center">
-  [![trophy](https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Pacoaldev/github-trophies)
+  <a href="https://github.com/Pacoaldev/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br />
