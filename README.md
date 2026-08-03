@@ -111,7 +111,7 @@ I am a **Backend Developer & Systems Architect** specializing in distributed sys
 *Desktop application for job search automation and real-time interview technical assistance.*
 *   **Architecture:** Desktop application built with **Tauri + React + Next.js** communicating with a **Node.js/Fastify** REST API backend.
 *   **Key Features:** Real-time OCR-driven interview copilot.
-*   **Security & Billing:** Persisted local SQLite engine (FTS5 search), and custom middleware integration with Clerk Auth.
+*   **Security:** Persisted local SQLite engine (FTS5 search), and custom middleware integration with Clerk Auth.
 
 ### 🚗 **Medusse IoT Platform**
 *Full-scale real-time environmental monitoring ecosystem.*
