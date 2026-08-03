@@ -138,22 +138,6 @@ I am a **Backend Developer & Systems Architect** specializing in distributed sys
   [![trophy](https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Pacoaldev/github-trophies)
 </div>
 
----
-
-## 📬 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/fmlalinked/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pacoaldev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://www.pacoal.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
