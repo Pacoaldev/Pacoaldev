@@ -1,172 +1,157 @@
 <p align="center">
-  <!--
-  <video
-    src="https://github.com/user-attachments/assets/f80a8aef-3a21-49f1-884b-bbda55325ff7"
-    autoplay
-    muted
-    loop
-    playsinline
-    width="950"
-    style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);">
-  </video>
-  -->
   <img
     src="video_github.gif"
     width="950"
     style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);"
-    alt="Banner GIF" />
+    alt="Paco López - Backend Engineer & IoT Architect" />
 </p>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;Java+%26+Spring+Boot;Building+distributed+systems;Real-time+data+platforms;AI+powered+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Distributed+Systems;Java+%26+Spring+Boot;Real-time+IoT+%26+Data+Pipelines;Agentic+AI+%26+Developer+Tools+(MCP)" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  ![Pacoaldev's Profile visits](https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square&base=2789)
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pacoaldev?color=2563eb&logo=github&style=flat-square&label=Followers&v=1"/>
-
+  <a href="https://www.linkedin.com/in/fmlalinked/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://www.pacoal.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="mailto:pacoaldev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+  </a>
+  <img alt="Pacoaldev's Profile visits" src="https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square&base=2789" />
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 Professional Profile
 
-I design and build robust, high-performance backend systems focused on real-time data processing, IoT architectures, and distributed systems. 
-
-Combining core backend engineering with modern infrastructure and AI integration, I deliver scalable, end-to-end solutions that solve complex real-world challenges.
+I am a **Backend Developer & Systems Architect** specializing in distributed systems, real-time data pipelines, IoT, and AI integration. My engineering philosophy focuses on logical solidity, architectural patterns, and scalability. I build production-ready solutions combining enterprise backend development, secure cloud infrastructure, and state-of-the-art developer tooling.
 
 ---
 
-## 🔨 What I Build & Design
+## 🚀 Key Engineering Pillars
 
-- 🚗 **Real-Time Data Pipelines** — High-throughput ingestion and low-latency processing systems.
-- ⚡ **Event-Driven Architectures** — Distributed systems communicating seamlessly via MQTT and WebSockets.
-- 🧠 **AI-Powered Solutions** — Integrating large language models into scalable application workflows.
-- 🦉 **AI Agents & Developer Tools** — Extending IDE capabilities via MCP and custom agentic workflows.
-- 📑 **Enterprise APIs & Backends** — Clean, secure, and maintainable RESTful services.
-- 🐳 **Infrastructure & Containers** — Automated packaging, orchestration, and seamless deployments.
+*   **Distributed & Event-Driven Systems:** Building high-throughput real-time ingestion pipelines using MQTT, WebSockets, InfluxDB, and Spring Boot.
+*   **Agentic AI & Developer Tooling:** Designing custom Model Context Protocol (MCP) servers, LLM integrations, and IDE extensions to automate engineering tasks.
+*   **Automation & Security Research:** Creating automated vulnerability engines, credentials validation probes, and headless browser scrapers.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
 <details open>
-<summary><b>💻 Backend & Core</b></summary>
+<summary><b>🤖 AI & Agentic Development (Expert / Advanced)</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-Expert-blue?style=flat-square" alt="MCP Protocol" />
+  <img src="https://img.shields.io/badge/OpenCode-Expert-blue?style=flat-square" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/LLMs_%2F_GPT_API-Advanced-green?style=flat-square" alt="LLMs / GPT API" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-Advanced-green?style=flat-square" alt="Agentic Workflows" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
+<summary><b>💻 Backend & Systems Architecture</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="Postgres" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white&style=flat-square" alt="InfluxDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis" />
+  <img src="https://img.shields.io/badge/Java-Advanced-green?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Advanced-green?logo=springboot&logoColor=fff&style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-Advanced-green?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-Advanced-green?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-green?logo=node.js&logoColor=white&style=flat-square" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/REST_APIs-Advanced-green?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/MQTT-Advanced-green?logo=mqtt&logoColor=white&style=flat-square" alt="MQTT" />
+  <img src="https://img.shields.io/badge/WebSockets-Advanced-green?logo=socket.io&logoColor=white&style=flat-square" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-Advanced-green?style=flat-square" alt="Distributed Systems" />
 </p>
 </details>
 
 <details open>
-<summary><b>🌐 Communication & Protocols</b></summary>
+<summary><b>🗄️ Databases & Analytics</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/REST_API-009688?logo=api&logoColor=white&style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/MQTT-3C5280?logo=mqtt&logoColor=white&style=flat-square" alt="MQTT" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white&style=flat-square" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-green?logo=postgresql&logoColor=white&style=flat-square" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced-green?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/InfluxDB-Advanced-green?logo=influxdb&logoColor=white&style=flat-square" alt="InfluxDB" />
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-yellow?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-Advanced-green?logo=redis&logoColor=white&style=flat-square" alt="Redis" />
+  <img src="https://img.shields.io/badge/Grafana-Advanced-green?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" />
 </p>
 </details>
 
 <details open>
-<summary><b>🚀 DevOps, Cloud & Automation</b></summary>
+<summary><b>🚀 DevOps, Cloud & Infra</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-Advanced-green?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-Advanced-green?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-Advanced-green?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-Advanced-green?logo=git&logoColor=white&style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-Intermediate-yellow?logo=github-actions&logoColor=white&style=flat-square" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-yellow?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" />
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Frontend & Integrations (Complementary)</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript%2FJS-Advanced-green?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript/JS" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FTailwind-Advanced-green?logo=tailwind-css&logoColor=white&style=flat-square" alt="HTML/CSS/Tailwind" />
+  <img src="https://img.shields.io/badge/Next.js-Intermediate-yellow?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-Intermediate-yellow?logo=react&logoColor=white&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter%2FDart-Intermediate-yellow?logo=flutter&logoColor=white&style=flat-square" alt="Flutter/Dart" />
+  <img src="https://img.shields.io/badge/Payment_Gateways-Advanced-green?style=flat-square" alt="Adyen/PayPal/AmazonPay" />
 </p>
 </details>
 
 ---
+
 
 ## 📚 Featured Projects
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| 🦉 **[Opencode Chat Panel](https://github.com/Fralopala2/opencode-mcp)** | VSCode/Antigravity extension integrating a chat panel with your local Opencode server for agents, skills, tools, and MCP. | TypeScript, VSCode Extension API, MCP |
-| 🧠 **[Epsylon IA](https://github.com/Fralopala2/Epsylon-show)** | AI-driven ecosystem designed for career growth, CV optimization, and automated interview simulations. | Next.js, TypeScript, OpenAI API, Tailwind CSS |
-| 🚗 **[Medusse IoT Platform](https://github.com/Fralopala2/medusse-show)** | Enterprise IoT platform for environmental monitoring with real-time low-latency data processing (~200-500ms). | Java, Spring Boot, TypeScript, Next.js, MQTT, InfluxDB |
-| 📑 **[Project Management Backend](https://github.com/Fralopala2/Project-Management-Platform)** | Industrial innovational project manager application supporting complex backend flows and lifecycle tracking. | Java, Spring Boot, MySQL, Thymeleaf, HTML/CSS/JS |
-| 🤖 **[Citabot](https://github.com/Fralopala2/Citabot)** | Flutter Android app automating the search and reservation of available public service appointments. | Flutter, Dart, Python, Web Scraping, Automation |
-| 🔥 **[Real Estate Data Platform](https://github.com/Fralopala2/APIpnot)** | Data scraping and ingestion engine providing in-depth real estate market analytics. | Python, Pandas, BeautifulSoup, Streamlit |
-| 🚦 **[Electric Traffic Light](https://github.com/Fralopala2/semaforo_electrico)** | Intelligent simulation and real-time visualization of daily electricity price fluctuations. | Python, Data Analysis, Scraping |
+### 🛸 **Epsylon**
+*Desktop application for job search automation and real-time interview technical assistance.*
+*   **Architecture:** Desktop application built with **Tauri + React + Next.js** communicating with a **Node.js/Fastify** REST API backend.
+*   **Key Features:** Real-time OCR-driven interview copilot.
+*   **Security & Billing:** Persisted local SQLite engine (FTS5 search), and custom middleware integration with Clerk Auth.
+
+### 🚗 **Medusse IoT Platform**
+*Full-scale real-time environmental monitoring ecosystem.*
+*   **Architecture:** Dockerized architecture orchestrating **ESP32 simulators**, an **MQTT broker**, a **Telegraf ingestion pipeline**, **InfluxDB**, and a **Node.js/Express API** (with 30s cache optimization).
+*   **Data Pipelines:** Handles real-time streams for 18 sensors across multiple physical locations, outputting directly to Grafana dashboards and a Flutter mobile app.
+*   **Hardware Ready:** Engineered for migration to LoRa Mesh architectures for low-power off-grid deployments.
+
+### 🦉 **OpenCode Chat Panel & NOX**
+*Model Context Protocol (MCP) server & workspace ecosystem.*
+*   **Integration:** Connects local code agents (Antigravity, Cursor, Claude and Kiro) to project files using MCP commands.
+*   **Automation:** Automates file reads, writes, and test execution directly through agent actions.
+*   **NOX:** Pre-configured project scaffolds for Backend (Spring Boot), Frontend (React), and DevOps (Docker/Kubernetes).
+
+### 🏷️ **Other Noteworthy Projects**
+*   **Soleares:** A Grafana monitoring dashboard for GitLab runner performance and CI pipelines using Prometheus.
+*   **Citabot:** Flutter mobile app connected to a FastAPI backend that scrapes public service appointment availability in the background and sends FCM push notifications.
+*   **SOS Wildfire Report:** Flutter Android application utilizing Google Maps SDK and Google Places API to report wildfires and locate nearby emergency services.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
 <div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Pacoaldev/github-trophies)
-
+  [![trophy](https://github-trophies.vercel.app/?username=Pacoaldev&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Pacoaldev/github-trophies)
 </div>
 
 ---
 
-## 🌱 Engineering Focus
-
-- **Architectural Excellence** — Crafting clean, modular, and design-pattern-driven code.
-- **Data Flow & Processing** — Building robust extraction, transformation, and real-time streaming pipelines.
-- **Reliable Integrations** — Designing predictable API layers and resilient third-party integrations.
-- **System Thinking** — Engineering software with infrastructure, deployment, and operation costs in mind.
-
----
-
-## ➕ Active Learning & Focus Areas
-
-- Agentic AI development, MCP (Model Context Protocol), and advanced developer tooling.
-- Advanced **Spring Boot** (performance optimization, custom security filters).
-- Distributed systems and container orchestration (Kubernetes & advanced Docker architectures).
-- Cloud Native application development (AWS ECS/EKS serverless deployment strategies).
-- Deepening API Gateway patterns and Microservice security.
-
----
-
-## 📬 Open To
-
-- **Backend Developer roles (Java / Spring Boot / Node.js)**
-- Distributed Systems development & Cloud integrations
-- Event-driven platforms & real-time telemetry systems
-
----
-
-## 📣 Connect With Me!
+## 📬 Connect With Me
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/fmlalinked/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="mailto:pacoaldev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-    </a>
-    <a href="https://www.pacoal.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
-    </a>
-    <a href="https://discord.com/users/Melburnia#6832">
-      <img src="https://img.shields.io/badge/Discord-%235865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-    </a>
-    <a href="https://www.instagram.com/pac0l0pez/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/fmlalinked/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pacoaldev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.pacoal.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
 </div>
 
 <br />
