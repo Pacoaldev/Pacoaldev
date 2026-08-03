@@ -11,17 +11,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fmlalinked/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="https://www.pacoal.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="mailto:pacoaldev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/fmlalinked/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.pacoal.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=flat-square" alt="Portfolio" /></a>
+  <a href="mailto:pacoaldev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
   <img alt="Pacoaldev's Profile visits" src="https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square&base=2789" />
 </div>
+
 
 ---
 
