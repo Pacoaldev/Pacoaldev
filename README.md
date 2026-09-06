@@ -297,6 +297,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 | [AWS Cloud Computing](https://www.credly.com/badges/13403432-2640-4d0c-96d8-e0abc093efef/public_url) | Amazon Web Services |
 | [Project Management & Agile Fundamentals](https://drive.google.com/file/d/1ha08_bYOFzEgNNzEu3tDEDoh71sv960M/view?usp=sharing) | Santander Academy |
 | [Microsoft Copilot](https://drive.google.com/file/d/18TQF7OvaK03yyuJgTMkhK1vOXyh9T50j/view?usp=sharing) | Santander Academy |
+| [AI initialization course](https://drive.google.com/file/d/1KeVNAGoIpneYdDL2W4xwHejWsqLYxRT7/view?usp=drive_link) | BIG School |
 
 **Languages:** Spanish (native) · Valencian/Catalan (native) · English (professional environment)
 
