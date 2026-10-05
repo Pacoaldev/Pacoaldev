@@ -1,6 +1,7 @@
 <p align="center">
   <img
     src="video_github.gif"
+    <img width="692" height="388" alt="video_github" src="https://github.com/user-attachments/assets/e24cfb0e-4273-4bb9-b567-1473d8ec5523"
     width="950"
     style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);"
     alt="Paco López Alarte — Backend Developer" />
