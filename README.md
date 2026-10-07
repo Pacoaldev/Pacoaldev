@@ -187,8 +187,22 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 * Knowledge stores: local JSON (offline, zero-config) or Google Cloud Firestore; LLM providers: Gemini or deterministic mock for CI.
 * FastAPI REST (`/docs`, `/health`) plus Rich interactive CLI; multi-stage Docker and GitHub Actions CI with pytest.
 
-<details>
-<summary><b>More projects</b></summary>
+---
+
+## More projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BypasserAI-191919?style=for-the-badge" alt="BypasserAI" />
+  <img src="https://img.shields.io/badge/Citabot-46E3B7?style=for-the-badge&logo=googleplay&logoColor=white" alt="Citabot" />
+  <img src="https://img.shields.io/badge/Applydash-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Applydash" />
+  <img src="https://img.shields.io/badge/TrainerExpert-5A0FC8?style=for-the-badge" alt="TrainerExpert" />
+  <img src="https://img.shields.io/badge/APIpnot-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="APIpnot" />
+</p>
+
+> *Five additional public repos — **BypasserAI**, **Citabot** (Google Play), **Applydash**, **TrainerExpert**, and **APIpnot**. Use the control below to expand or collapse full write-ups.*
+
+<details open>
+<summary><strong>Project details — click to expand or collapse</strong></summary>
 
 <br />
 
