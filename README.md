@@ -55,6 +55,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="REST APIs" />
@@ -90,6 +91,8 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat-square" alt="Render" />
   <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="CI/CD" />
 </p>
 </details>
@@ -98,6 +101,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 <summary><b>Frontend & Mobile (Complementary)</b></summary>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" alt="Angular" />
   <img src="https://img.shields.io/badge/HTML%2FCSS%2FTailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="HTML/CSS/Tailwind" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
@@ -108,7 +112,9 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ## Featured Projects
 
-### OpenCode Chat Panel
+### OpenCode Chat Panel (opencode-mcp)
+
+**[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" />
@@ -117,16 +123,18 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
 </p>
 
-> *VS Code extension (also on Open VSX) that integrates an AI coding assistant directly in the editor.*
+> *IDE chat sidebar connected to local OpenCode (agents, skills, MCP) or LM Studio — for VS Code, Cursor, and Antigravity.*
 
-* MCP server exposing OpenCode to external assistants (Claude, Cursor, Antigravity) for file read/write, command execution, and test runs.
-* Chat panel with persistent sessions, agent/model selection, and real-time events — without leaving the editor.
-* Decoupled architecture (UI, communication, integration layer) with robust connection-error handling, ready to scale to new LLM providers.
-* Published on GitHub, Microsoft Visual Studio Marketplace, and Open VSX Registry.
+* Chat panel with persistent sessions, agent/model selection, prompt templates, and real-time SSE streaming.
+* MCP adapter exposing OpenCode to external assistants; context attachments (files, selection, Git) with token budgeting.
+* API key failover, cost tracking, and robust connection-error handling for day-to-day AI-assisted development.
+* Published on [GitHub](https://github.com/Pacoaldev/opencode-mcp), [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode), and [Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode).
 
 ---
 
-### Medusse IoT Platform
+### Medusse IoT
+
+**[GitHub](https://github.com/Pacoaldev/medusse-show)**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
@@ -138,50 +146,73 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 > *End-to-end distributed IoT platform for real-time environmental monitoring.*
 
 * Microservices architecture orchestrated in Docker: MQTT broker, ingestion, API, real-time layer, and visualization.
-* ESP32 and Raspberry Pi devices via LoRa and MQTT (EMQX broker); data pipeline through Telegraf and InfluxDB to Grafana dashboards.
-* Custom REST API and WebSockets exposing devices, sensors, and platform status in real time.
-* Full client ecosystem: web and mobile apps; reproducible configuration via environment variables.
+* ESP32 devices via LoRa and MQTT (EMQX); pipeline MQTT → Telegraf → InfluxDB → Grafana with WebSocket live updates.
+* Demo deployment with **18 sensors across 4 locations**; REST API and mobile/web clients; reproducible via environment variables.
 
 ---
 
 ### Epsylon
 
+**[GitHub](https://github.com/Pacoaldev/Epsylon-show)**
+
 <p>
   <img src="https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square" alt="Tauri" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
   <img src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white&style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
 </p>
 
-> *Professional AI training platform for technical interviews and job search — desktop app, backend, and commercial web with billing.*
+> *Public showcase repository for an AI interview-training product line (full SaaS monorepo is private).*
 
-* Real-time interview copilot: teleprompter, automatic videocall platform detection (Zoom, Teams, Meet), and global keyboard shortcuts.
-* Conversational interview simulations with configurable role and level, plus final improvement feedback.
-* Personal knowledge base with document upload and context retrieval for better AI responses.
-* Automated job search module with advanced filters, application pipeline management, and OCR/STT/TTS tools.
+* Demonstrates interview copilot patterns: teleprompter flow, videocall platform detection, and conversational practice with feedback.
+* Personal knowledge base with document upload and context retrieval (RAG-oriented UX).
+* Stack highlights in the public repo: Tauri desktop, React, and Next.js integration patterns.
 
 ---
 
-### Industrial Project Management System
+### Universal RAG Assistant Engine
+
+**[GitHub](https://github.com/Pacoaldev/Universal-RAG-assistant-engine)**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white&style=flat-square" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
 </p>
 
-> *Layered Java backend (Controller–Service–Repository) for managing industrial innovation projects.*
+> *Production-ready, domain-agnostic conversational RAG engine with clean architecture and dual storage.*
 
-* Domain modeling and relational persistence on MySQL; CRUD endpoints with input validation and consistency rules.
-* Low-coupling layered architecture designed for future authentication and feature expansion.
-* Test suite validating business logic and core component behavior.
+* Declarative configuration to adapt the same core to different businesses without rewriting domain logic.
+* Knowledge stores: local JSON (offline, zero-config) or Google Cloud Firestore; LLM providers: Gemini or deterministic mock for CI.
+* FastAPI REST (`/docs`, `/health`) plus Rich interactive CLI; multi-stage Docker and GitHub Actions CI with pytest.
 
 <details>
 <summary><b>More projects</b></summary>
 
 <br />
 
+### BypasserAI
+
+**[GitHub](https://github.com/Pacoaldev/BypasserAI)**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white&style=flat-square" alt="LLMs" />
+</p>
+
+> *Git pre-commit hook and CLI that humanizes AI-shaped code before it lands in history.*
+
+* Local heuristic scorer on staged files (no API on clean commits); OpenAI-compatible rewrite only above threshold.
+* Language-aware profiles (JS/TS, Python, Go, Rust, Java, and more); smart rewrite scope (file, diff hunks, or chunks).
+* Safety guards, `.bak` rollback, parallel rewrites, and optional Windows toasts — agent-friendly via `AGENTS.md`.
+
+---
+
 ### Citabot
+
+**[GitHub](https://github.com/Pacoaldev/Citabot)** · **[Live API](https://citabot.onrender.com)** · **[Google Play](https://play.google.com/store/apps/details?id=com.paco.citabot&hl=es)**
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
@@ -199,54 +230,28 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ---
 
-### TimeTracker
+### Applydash
+
+**[GitHub](https://github.com/Pacoaldev/APPLYDASH)** · **[Live](https://applydash.vercel.app)**
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" alt="Prisma" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel" />
 </p>
 
-> *Web app in production for task and sprint time tracking with real-time sync.*
+> *Job application tracking dashboard in production on Vercel.*
 
-* Admin/collaborator roles, live synchronized stopwatch, and Kanban task board.
-* Statistics dashboard and PDF/CSV report export.
-* Deployed on Vercel with custom domain.
-
----
-
-### Applydash
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="REST APIs" />
-</p>
-
-> *Platform to centralize and automate job application tracking.*
-
-* Client-server architecture for applications, companies, hiring processes, and status tracking.
-* REST API for candidates, offers, companies, interviews, and state changes.
-* Scraping and offer aggregation to reduce manual work during job search.
-
----
-
-### APIpnot
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas" />
-</p>
-
-> *Data platform for real-time extraction and visualization of Spanish real estate prices.*
-
-* Full data pipeline: scraping and API consumption, Pandas cleaning/aggregation, interactive Streamlit + Plotly dashboard.
-* Modular architecture separating ingestion, processing, and visualization.
+* Next.js 16 app with Prisma and Supabase (auth, realtime data); Kanban board with drag-and-drop.
+* Browser extension for cross-portal capture (LinkedIn, Indeed, InfoJobs, and others).
+* CSV import/export, matching engine, and metrics to reduce manual follow-up during job search.
 
 ---
 
 ### TrainerExpert
+
+**[GitHub](https://github.com/Pacoaldev/TrainerExpert)**
 
 <p>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=flat-square" alt="PWA" />
@@ -258,6 +263,23 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 * PWA with mobile microphone support and local Node.js proxy for Gemini/NVIDIA APIs without CORS conflicts.
 * Open-source (MIT) — clone, add your API key, and train with your own profile.
+
+---
+
+### APIpnot
+
+**[GitHub](https://github.com/Pacoaldev/APIpnot)**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas" />
+</p>
+
+> *Data platform for real-time extraction and visualization of Spanish real estate prices.*
+
+* Full data pipeline: scraping and API consumption, Pandas cleaning/aggregation, interactive Streamlit + Plotly dashboard.
+* Modular architecture separating ingestion, processing, and visualization.
 
 </details>
 
