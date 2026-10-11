@@ -112,7 +112,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ## Featured Projects
 
-<table>
+<table border="0">
 <tr>
 <td valign="top">
 
@@ -133,9 +133,9 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 * Published on [GitHub](https://github.com/Pacoaldev/opencode-mcp), [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode), and [Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode).
 
 </td>
-<td width="220" valign="middle" align="center">
+<td width="160" valign="top" align="right">
 
-<img src="assets/projects/opencode-mcp-logo-blur.png" alt="" width="200" />
+<img src="assets/projects/opencode-mcp-logo-faint.png" alt="" width="150" />
 
 </td>
 </tr>
