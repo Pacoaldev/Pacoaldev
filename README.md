@@ -112,16 +112,18 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ## Featured Projects
 
+<table>
+<tr>
+<td valign="top">
+
 ### OpenCode Chat Panel (opencode-mcp)
 
 **[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
 
-<p>
-  <img src="assets/badges/VS_Code_flat-square.svg" alt="VS Code" />
-  <img src="assets/badges/MCP_flat-square.svg" alt="MCP" />
-  <img src="assets/badges/TypeScript_flat-square.svg" alt="TypeScript" />
-  <img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
-</p>
+<img src="assets/badges/VS_Code_flat-square.svg" alt="VS Code" />
+<img src="assets/badges/MCP_flat-square.svg" alt="MCP" />
+<img src="assets/badges/TypeScript_flat-square.svg" alt="TypeScript" />
+<img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
 
 > *IDE chat sidebar connected to local OpenCode (agents, skills, MCP) or LM Studio — for VS Code, Cursor, and Antigravity.*
 
@@ -129,6 +131,15 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 * MCP adapter exposing OpenCode to external assistants; context attachments (files, selection, Git) with token budgeting.
 * API key failover, cost tracking, and robust connection-error handling for day-to-day AI-assisted development.
 * Published on [GitHub](https://github.com/Pacoaldev/opencode-mcp), [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode), and [Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode).
+
+</td>
+<td width="220" valign="middle" align="center">
+
+<img src="assets/projects/opencode-mcp-logo-blur.png" alt="" width="200" />
+
+</td>
+</tr>
+</table>
 
 ---
 
