@@ -118,6 +118,8 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 <img src="assets/projects/opencode-mcp-card-v4.png" alt="OpenCode Chat Panel — IDE chat sidebar over a faint project logo" align="left" width="100%" />
 
+<br/>
+
 ---
 
 ### Medusse IoT
@@ -125,6 +127,8 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/medusse-show)**
 
 <img src="assets/projects/medusse-iot-card-v2.png" alt="Medusse IoT — IoT platform over a faint project image" align="left" width="100%" />
+
+<br/>
 
 ---
 
@@ -134,6 +138,8 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 <img src="assets/projects/epsylon-card-v2.png" alt="Epsylon — AI interview training over a faint project logo" align="left" width="100%" />
 
+<br/>
+
 ---
 
 ### Universal RAG Assistant Engine
@@ -141,6 +147,8 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/Universal-RAG-assistant-engine)**
 
 <img src="assets/projects/universal-rag-card-v2.png" alt="Universal RAG Assistant Engine — over a faint project logo" align="left" width="100%" />
+
+<br/>
 
 ---
 
