@@ -124,18 +124,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/medusse-show)**
 
-<p>
-  <img src="assets/badges/Docker_flat-square.svg" alt="Docker" />
-  <img src="assets/badges/MQTT_flat-square.svg" alt="MQTT" />
-  <img src="assets/badges/InfluxDB_flat-square.svg" alt="InfluxDB" />
-  <img src="assets/badges/Grafana_flat-square.svg" alt="Grafana" />
-</p>
-
-> *End-to-end distributed IoT platform for real-time environmental monitoring.*
-
-* Microservices architecture orchestrated in Docker: MQTT broker, ingestion, API, real-time layer, and visualization.
-* ESP32 devices via LoRa and MQTT (EMQX); pipeline MQTT → Telegraf → InfluxDB → Grafana with WebSocket live updates.
-* Demo deployment with **18 sensors across 4 locations**; REST API and mobile/web clients; reproducible via environment variables.
+<img src="assets/projects/medusse-iot-card-v1.png" alt="Medusse IoT — IoT platform over a faint project image" align="left" width="100%" />
 
 ---
 
@@ -143,18 +132,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/Epsylon-show)**
 
-<p>
-  <img src="assets/badges/Tauri_flat-square.svg" alt="Tauri" />
-  <img src="assets/badges/React_flat-square.svg" alt="React" />
-  <img src="assets/badges/LLMs_flat-square.svg" alt="LLMs" />
-  <img src="assets/badges/Next.js_flat-square.svg" alt="Next.js" />
-</p>
-
-> *Public showcase repository for an AI interview-training product line (full SaaS monorepo is private).*
-
-* Demonstrates interview copilot patterns: teleprompter flow, videocall platform detection, and conversational practice with feedback.
-* Personal knowledge base with document upload and context retrieval (RAG-oriented UX).
-* Stack highlights in the public repo: Tauri desktop, React, and Next.js integration patterns.
+<img src="assets/projects/epsylon-card-v1.png" alt="Epsylon — AI interview training over a faint project logo" align="left" width="100%" />
 
 ---
 
@@ -162,18 +140,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/Universal-RAG-assistant-engine)**
 
-<p>
-  <img src="assets/badges/Python_flat-square.svg" alt="Python" />
-  <img src="assets/badges/FastAPI_flat-square.svg" alt="FastAPI" />
-  <img src="assets/badges/Google_Gemini_flat-square.svg" alt="Gemini" />
-  <img src="assets/badges/Docker_flat-square.svg" alt="Docker" />
-</p>
-
-> *Production-ready, domain-agnostic conversational RAG engine with clean architecture and dual storage.*
-
-* Declarative configuration to adapt the same core to different businesses without rewriting domain logic.
-* Knowledge stores: local JSON (offline, zero-config) or Google Cloud Firestore; LLM providers: Gemini or deterministic mock for CI.
-* FastAPI REST (`/docs`, `/health`) plus Rich interactive CLI; multi-stage Docker and GitHub Actions CI with pytest.
+<img src="assets/projects/universal-rag-card-v1.png" alt="Universal RAG Assistant Engine — over a faint project logo" align="left" width="100%" />
 
 ---
 
