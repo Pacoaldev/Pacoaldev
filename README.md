@@ -116,39 +116,37 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
 
-<img src="assets/projects/opencode-mcp-card-v4.png" alt="OpenCode Chat Panel — IDE chat sidebar over a faint project logo" align="left" width="100%" />
+<img src="assets/projects/opencode-mcp-card-v4.png" alt="OpenCode Chat Panel — IDE chat sidebar over a faint project logo" width="100%" />
 
-<br/>
 
----
+<hr>
+
 
 ### Medusse IoT
 
 **[GitHub](https://github.com/Pacoaldev/medusse-show)**
 
-<img src="assets/projects/medusse-iot-card-v2.png" alt="Medusse IoT — IoT platform over a faint project image" align="left" width="100%" />
+<img src="assets/projects/medusse-iot-card-v2.png" alt="Medusse IoT — IoT platform over a faint project image" width="100%" />
 
-<br/>
 
----
+<hr>
+
 
 ### Epsylon
 
 **[GitHub](https://github.com/Pacoaldev/Epsylon-show)**
 
-<img src="assets/projects/epsylon-card-v2.png" alt="Epsylon — AI interview training over a faint project logo" align="left" width="100%" />
+<img src="assets/projects/epsylon-card-v2.png" alt="Epsylon — AI interview training over a faint project logo" width="100%" />
 
-<br/>
 
----
+<hr>
+
 
 ### Universal RAG Assistant Engine
 
 **[GitHub](https://github.com/Pacoaldev/Universal-RAG-assistant-engine)**
 
-<img src="assets/projects/universal-rag-card-v2.png" alt="Universal RAG Assistant Engine — over a faint project logo" align="left" width="100%" />
-
-<br/>
+<img src="assets/projects/universal-rag-card-v2.png" alt="Universal RAG Assistant Engine — over a faint project logo" width="100%" />
 
 ---
 
