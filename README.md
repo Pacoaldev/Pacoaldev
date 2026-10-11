@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fmlalinked/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://www.pacoal.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white&style=flat-square" alt="Portfolio" /></a>
-  <a href="mailto:pacoaldev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fmlalinked/"><img src="assets/badges/LinkedIn_flat-square.svg" alt="LinkedIn" /></a>
+  <a href="https://www.pacoal.dev/"><img src="assets/badges/Portfolio_flat-square.svg" alt="Portfolio" /></a>
+  <a href="mailto:pacoaldev@gmail.com"><img src="assets/badges/Gmail_flat-square.svg" alt="Email" /></a>
   <img alt="Pacoaldev's Profile visits" src="https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square&base=2789" />
 </div>
 
@@ -41,70 +41,70 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 <details open>
 <summary><b>AI & Agentic Development</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white&style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?logo=langchain&logoColor=white&style=flat-square" alt="Agentic Development" />
-  <img src="https://img.shields.io/badge/MCP-191919?logo=anthropic&logoColor=white&style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white&style=flat-square" alt="Codex" />
+  <img src="assets/badges/LLMs_flat-square.svg" alt="LLMs" />
+  <img src="assets/badges/Agentic_AI_flat-square.svg" alt="Agentic Development" />
+  <img src="assets/badges/MCP_flat-square.svg" alt="MCP" />
+  <img src="assets/badges/OpenCode_flat-square.svg" alt="OpenCode" />
+  <img src="assets/badges/Codex_flat-square.svg" alt="Codex" />
 </p>
 </details>
 
 <details open>
 <summary><b>Backend & Systems</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white&style=flat-square" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Microservices-009639?logo=nginx&logoColor=white&style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=flat-square" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin" />
+  <img src="assets/badges/Java_flat-square.svg" alt="Java" />
+  <img src="assets/badges/Spring_Boot_flat-square.svg" alt="Spring Boot" />
+  <img src="assets/badges/Python_flat-square.svg" alt="Python" />
+  <img src="assets/badges/FastAPI_flat-square.svg" alt="FastAPI" />
+  <img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
+  <img src="assets/badges/TypeScript_flat-square.svg" alt="TypeScript" />
+  <img src="assets/badges/REST_APIs_flat-square.svg" alt="REST APIs" />
+  <img src="assets/badges/WebSockets_flat-square.svg" alt="WebSockets" />
+  <img src="assets/badges/Microservices_flat-square.svg" alt="Microservices" />
+  <img src="assets/badges/MQTT_flat-square.svg" alt="MQTT" />
+  <img src="assets/badges/Laravel_flat-square.svg" alt="Laravel" />
+  <img src="assets/badges/PHP_flat-square.svg" alt="PHP" />
+  <img src="assets/badges/Kotlin_flat-square.svg" alt="Kotlin" />
 </p>
 </details>
 
 <details open>
 <summary><b>Databases & Analytics</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white&style=flat-square" alt="InfluxDB" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" />
+  <img src="assets/badges/PostgreSQL_flat-square.svg" alt="PostgreSQL" />
+  <img src="assets/badges/MySQL_flat-square.svg" alt="MySQL" />
+  <img src="assets/badges/MongoDB_flat-square.svg" alt="MongoDB" />
+  <img src="assets/badges/InfluxDB_flat-square.svg" alt="InfluxDB" />
+  <img src="assets/badges/Supabase_flat-square.svg" alt="Supabase" />
+  <img src="assets/badges/SQL_flat-square.svg" alt="SQL" />
+  <img src="assets/badges/Grafana_flat-square.svg" alt="Grafana" />
 </p>
 </details>
 
 <details open>
 <summary><b>DevOps, Cloud & Infra</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat-square" alt="Render" />
-  <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="CI/CD" />
+  <img src="assets/badges/Docker_flat-square.svg" alt="Docker" />
+  <img src="assets/badges/Kubernetes_flat-square.svg" alt="Kubernetes" />
+  <img src="assets/badges/AWS_flat-square.svg" alt="AWS" />
+  <img src="assets/badges/Linux_flat-square.svg" alt="Linux" />
+  <img src="assets/badges/Git_flat-square.svg" alt="Git" />
+  <img src="assets/badges/GitHub_Actions_flat-square.svg" alt="GitHub Actions" />
+  <img src="assets/badges/Jenkins_flat-square.svg" alt="Jenkins" />
+  <img src="assets/badges/Vercel_flat-square.svg" alt="Vercel" />
+  <img src="assets/badges/Render_flat-square.svg" alt="Render" />
+  <img src="assets/badges/CI-CD_flat-square.svg" alt="CI/CD" />
 </p>
 </details>
 
 <details open>
 <summary><b>Frontend & Mobile (Complementary)</b></summary>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FTailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="HTML/CSS/Tailwind" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
+  <img src="assets/badges/React_flat-square.svg" alt="React" />
+  <img src="assets/badges/Next.js_flat-square.svg" alt="Next.js" />
+  <img src="assets/badges/Angular_flat-square.svg" alt="Angular" />
+  <img src="assets/badges/HTML-CSS-Tailwind_flat-square.svg" alt="HTML/CSS/Tailwind" />
+  <img src="assets/badges/Flutter_flat-square.svg" alt="Flutter" />
 </p>
 </details>
 
@@ -117,10 +117,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MCP-191919?logo=anthropic&logoColor=white&style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="assets/badges/VS_Code_flat-square.svg" alt="VS Code" />
+  <img src="assets/badges/MCP_flat-square.svg" alt="MCP" />
+  <img src="assets/badges/TypeScript_flat-square.svg" alt="TypeScript" />
+  <img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
 </p>
 
 > *IDE chat sidebar connected to local OpenCode (agents, skills, MCP) or LM Studio — for VS Code, Cursor, and Antigravity.*
@@ -137,10 +137,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/medusse-show)**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=flat-square" alt="MQTT" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white&style=flat-square" alt="InfluxDB" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" />
+  <img src="assets/badges/Docker_flat-square.svg" alt="Docker" />
+  <img src="assets/badges/MQTT_flat-square.svg" alt="MQTT" />
+  <img src="assets/badges/InfluxDB_flat-square.svg" alt="InfluxDB" />
+  <img src="assets/badges/Grafana_flat-square.svg" alt="Grafana" />
 </p>
 
 > *End-to-end distributed IoT platform for real-time environmental monitoring.*
@@ -156,10 +156,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/Epsylon-show)**
 
 <p>
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white&style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
+  <img src="assets/badges/Tauri_flat-square.svg" alt="Tauri" />
+  <img src="assets/badges/React_flat-square.svg" alt="React" />
+  <img src="assets/badges/LLMs_flat-square.svg" alt="LLMs" />
+  <img src="assets/badges/Next.js_flat-square.svg" alt="Next.js" />
 </p>
 
 > *Public showcase repository for an AI interview-training product line (full SaaS monorepo is private).*
@@ -175,10 +175,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/Universal-RAG-assistant-engine)**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white&style=flat-square" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <img src="assets/badges/Python_flat-square.svg" alt="Python" />
+  <img src="assets/badges/FastAPI_flat-square.svg" alt="FastAPI" />
+  <img src="assets/badges/Google_Gemini_flat-square.svg" alt="Gemini" />
+  <img src="assets/badges/Docker_flat-square.svg" alt="Docker" />
 </p>
 
 > *Production-ready, domain-agnostic conversational RAG engine with clean architecture and dual storage.*
@@ -192,11 +192,11 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 ## More projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BypasserAI-191919?style=for-the-badge" alt="BypasserAI" />
-  <img src="https://img.shields.io/badge/Citabot-46E3B7?style=for-the-badge&logo=googleplay&logoColor=white" alt="Citabot" />
-  <img src="https://img.shields.io/badge/Applydash-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Applydash" />
-  <img src="https://img.shields.io/badge/TrainerExpert-5A0FC8?style=for-the-badge" alt="TrainerExpert" />
-  <img src="https://img.shields.io/badge/APIpnot-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="APIpnot" />
+  <img src="assets/badges/BypasserAI_for-the-badge.svg" alt="BypasserAI" />
+  <img src="assets/badges/Citabot_for-the-badge.svg" alt="Citabot" />
+  <img src="assets/badges/Applydash_for-the-badge.svg" alt="Applydash" />
+  <img src="assets/badges/TrainerExpert_for-the-badge.svg" alt="TrainerExpert" />
+  <img src="assets/badges/APIpnot_for-the-badge.svg" alt="APIpnot" />
 </p>
 
 > *Five additional public repos — **BypasserAI**, **Citabot** (Google Play), **Applydash**, **TrainerExpert**, and **APIpnot**. Use the control below to expand or collapse full write-ups.*
@@ -211,9 +211,9 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/BypasserAI)**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=white&style=flat-square" alt="LLMs" />
+  <img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
+  <img src="assets/badges/TypeScript_flat-square.svg" alt="TypeScript" />
+  <img src="assets/badges/LLMs_flat-square.svg" alt="LLMs" />
 </p>
 
 > *Git pre-commit hook and CLI that humanizes AI-shaped code before it lands in history.*
@@ -229,10 +229,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/Citabot)** · **[Live API](https://citabot.onrender.com)** · **[Google Play](https://play.google.com/store/apps/details?id=com.paco.citabot&hl=es)**
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat-square" alt="Render" />
+  <img src="assets/badges/Flutter_flat-square.svg" alt="Flutter" />
+  <img src="assets/badges/FastAPI_flat-square.svg" alt="FastAPI" />
+  <img src="assets/badges/Firebase_flat-square.svg" alt="Firebase" />
+  <img src="assets/badges/Render_flat-square.svg" alt="Render" />
 </p>
 
 > *Android app published on Google Play that automates searching for available appointments.*
@@ -249,10 +249,10 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/APPLYDASH)** · **[Live](https://applydash.vercel.app)**
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel" />
+  <img src="assets/badges/Next.js_flat-square.svg" alt="Next.js" />
+  <img src="assets/badges/Prisma_flat-square.svg" alt="Prisma" />
+  <img src="assets/badges/Supabase_flat-square.svg" alt="Supabase" />
+  <img src="assets/badges/Vercel_flat-square.svg" alt="Vercel" />
 </p>
 
 > *Job application tracking dashboard in production on Vercel.*
@@ -268,9 +268,9 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/TrainerExpert)**
 
 <p>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=flat-square" alt="PWA" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat-square" alt="Gemini" />
+  <img src="assets/badges/PWA_flat-square.svg" alt="PWA" />
+  <img src="assets/badges/Node.js_flat-square.svg" alt="Node.js" />
+  <img src="assets/badges/Gemini_flat-square.svg" alt="Gemini" />
 </p>
 
 > *Technical interview simulator with 8 real-world scenarios.*
@@ -285,9 +285,9 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 **[GitHub](https://github.com/Pacoaldev/APIpnot)**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas" />
+  <img src="assets/badges/Python_flat-square.svg" alt="Python" />
+  <img src="assets/badges/Streamlit_flat-square.svg" alt="Streamlit" />
+  <img src="assets/badges/Pandas_flat-square.svg" alt="Pandas" />
 </p>
 
 > *Data platform for real-time extraction and visualization of Spanish real estate prices.*
