@@ -116,7 +116,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
 
-![OpenCode Chat Panel — IDE chat sidebar over a faint project logo](assets/projects/opencode-mcp-card.png)
+![OpenCode Chat Panel — IDE chat sidebar over a faint project logo](assets/projects/opencode-mcp-card-v2.png)
 
 ---
 
