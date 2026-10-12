@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fmlalinked/"><img src="assets/badges/LinkedIn_flat-square.svg" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pacoaldev/"><img src="assets/badges/LinkedIn_flat-square.svg" alt="LinkedIn" /></a>
   <a href="https://www.pacoal.dev/"><img src="assets/badges/Portfolio_flat-square.svg" alt="Portfolio" /></a>
   <a href="mailto:pacoaldev@gmail.com"><img src="assets/badges/Gmail_flat-square.svg" alt="Email" /></a>
   <img alt="Pacoaldev's Profile visits" src="https://komarev.com/ghpvc/?username=Pacoaldev&color=2563eb&style=flat-square&base=2789" />
