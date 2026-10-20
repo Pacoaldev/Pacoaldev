@@ -318,7 +318,11 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 <br />
 
 <p align="center">
-  <img width="160" height="160" alt="logo personal" src="https://github.com/user-attachments/assets/76bf9bb6-15eb-4ea6-bbaf-83fbe1728754" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/76bf9bb6-15eb-4ea6-bbaf-83fbe1728754" alt="logo personal" width="160" height="160" align="middle" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/b7e2cdde-3649-4950-a4ad-fa144e573ab0" alt="badge" width="160" height="160" />
+  <img src="https://github.com/user-attachments/assets/b7e2cdde-3649-4950-a4ad-fa144e573ab0" alt="badge" width="160" height="160" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Gentleman-Programming/gentle-ai">
+    <img src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" height="160" align="middle" />
+  </a>
 </p>
