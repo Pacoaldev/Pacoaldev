@@ -112,6 +112,16 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ## Featured Projects
 
+### NOX9GO
+
+**[GitHub](https://github.com/Pacoaldev/Nox9Go)**
+
+<img src="assets/projects/nox9go-card-v1.png" alt="NOX9GO — lightweight AI gateway in Go over a faint project logo" width="100%" />
+
+
+<hr>
+
+
 ### OpenCode Chat Panel (opencode-mcp)
 
 **[GitHub](https://github.com/Pacoaldev/opencode-mcp)** · **[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Pacoaldev.opencode-mcp-vscode)** · **[Open VSX](https://open-vsx.org/extension/Pacoaldev/opencode-mcp-vscode)**
