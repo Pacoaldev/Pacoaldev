@@ -116,7 +116,7 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 **[GitHub](https://github.com/Pacoaldev/Nox9Go)**
 
-<img src="assets/projects/nox9go-card-v1.png" alt="NOX9GO — lightweight AI gateway in Go over a faint project logo" width="100%" />
+<img src="assets/projects/nox9go-card-v2.png" alt="NOX9GO — lightweight AI gateway in Go over a faint project logo" width="100%" />
 
 
 <hr>
