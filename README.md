@@ -112,6 +112,16 @@ Looking to join a backend team where I can contribute software, AI, infrastructu
 
 ## Featured Projects
 
+### OdooMCP
+
+**[GitHub](https://github.com/Pacoaldev/OdooMCP)**
+
+<img src="assets/projects/odoomcp-card-v1.png" alt="OdooMCP — permission-aware MCP server for Odoo ERP over a faint project logo" width="100%" />
+
+
+<hr>
+
+
 ### NOX9GO
 
 **[GitHub](https://github.com/Pacoaldev/Nox9Go)**
